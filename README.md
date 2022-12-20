@@ -1,4 +1,4 @@
-[![MasterHead](https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960)](https://rishavchanda.io)
+[![MasterHead](https://www.expert.ai/wp-content/uploads/2022/03/machine-learning-definition-300x79.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankush</h1>
 <h3 align="center">A passionate Data Analyst from India and I welcome you guys in my creative space</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/07/31532d7d378053de3b8bf23c6e7bfae3-1.gif">
