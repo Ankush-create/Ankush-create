@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/businessman-hand-hold-artificial-intelligence-aion-big-data-network-machine-learning-data-dark-background-artificial-intelligence-technology-innovation-futuristic_162459-2899.jpg)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-photo/businessman-hand-hold-artificial-intelligence-aion-big-data-network-machine-learning-data-dark-background-artificial-intelligence-technology-innovation-futuristic_162459-2899.jpg?w=996)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankush</h1>
 <h3 align="center">A passionate Data Analyst from India and I welcome you guys in my creative space</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/07/31532d7d378053de3b8bf23c6e7bfae3-1.gif">
