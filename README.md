@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Computer vision**
 
-- 💬 Ask me about **Python , Machine Learning , SQL , Power BI**
+- 💬 Ask me about **Python , Machine Learning , Deep Learning , Data Pipeline, SQL , Power BI**
 
 - 📫 How to reach me **mr.ankushsharma2@gmail.com**
 
